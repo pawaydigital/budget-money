@@ -1,6 +1,3 @@
-import { NextPage } from "next";
-import clientPromise from "../lib/mongodb";
-
 interface Data {
   _id: string;
   hola: string;
